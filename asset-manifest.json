@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/profile_github/static/css/main.bed5e4a5.chunk.css",
+    "main.js": "/profile_github/static/js/main.27a81bab.chunk.js",
+    "main.js.map": "/profile_github/static/js/main.27a81bab.chunk.js.map",
+    "runtime-main.js": "/profile_github/static/js/runtime-main.19e84380.js",
+    "runtime-main.js.map": "/profile_github/static/js/runtime-main.19e84380.js.map",
+    "static/js/2.e2836ccc.chunk.js": "/profile_github/static/js/2.e2836ccc.chunk.js",
+    "static/js/2.e2836ccc.chunk.js.map": "/profile_github/static/js/2.e2836ccc.chunk.js.map",
+    "index.html": "/profile_github/index.html",
+    "precache-manifest.955e567d9a7f04c84aac8fdc38cf438b.js": "/profile_github/precache-manifest.955e567d9a7f04c84aac8fdc38cf438b.js",
+    "service-worker.js": "/profile_github/service-worker.js",
+    "static/css/main.bed5e4a5.chunk.css.map": "/profile_github/static/css/main.bed5e4a5.chunk.css.map",
+    "static/js/2.e2836ccc.chunk.js.LICENSE.txt": "/profile_github/static/js/2.e2836ccc.chunk.js.LICENSE.txt",
+    "static/media/background.jpg": "/profile_github/static/media/background.eec1e5be.jpg",
+    "static/media/covie-tracker.png": "/profile_github/static/media/covie-tracker.66e0294d.png",
+    "static/media/instachat.png": "/profile_github/static/media/instachat.ac13bc3d.png",
+    "static/media/movieSearch.PNG": "/profile_github/static/media/movieSearch.c15f7c7e.PNG",
+    "static/media/tictactoeGame.png": "/profile_github/static/media/tictactoeGame.7712adf4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19e84380.js",
+    "static/js/2.e2836ccc.chunk.js",
+    "static/css/main.bed5e4a5.chunk.css",
+    "static/js/main.27a81bab.chunk.js"
+  ]
+}
